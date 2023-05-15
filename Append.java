@@ -5,6 +5,7 @@ import java.util.HashSet;
 public class Append {
     public static void main(String[] args) {
         HashSet<String>tv=new HashSet<>();
+        tv.add("Sky wave tv");
         tv.add("TCL tv");
         tv.add("Noble tv");
         tv.add("samsung tv");
